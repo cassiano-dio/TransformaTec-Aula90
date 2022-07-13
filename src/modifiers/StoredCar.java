@@ -1,4 +1,4 @@
-package encapsulations;
+package modifiers;
 
 import abstractions.Car;
 

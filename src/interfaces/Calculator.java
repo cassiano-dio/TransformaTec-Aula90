@@ -1,11 +1,13 @@
 package interfaces;
 
+//interface
 interface Calculable{
 
     public int calculate(int a, int b);
 
 }
 
+//classe que implementa a interface
 class Sum implements Calculable{
 
     @Override

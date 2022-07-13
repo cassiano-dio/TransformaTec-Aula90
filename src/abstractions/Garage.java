@@ -17,8 +17,8 @@ public class Garage {
 
         System.out.println(unoEscada.getModel());
         System.out.println(unoEscada.getYear());
-        //unoEscada.year = 1990;
-        unoEscada.setYear(1992);
+        //testando a restrição de acesso de um atributo privado
+        //unoEscada.model;
         System.out.println(unoEscada.year);
 
 
